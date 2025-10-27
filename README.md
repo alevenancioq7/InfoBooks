@@ -34,10 +34,11 @@ App Android desenvolvido em Java para busca e visualização de livros utilizand
 Este projeto foi desenvolvido para fins **didáticos** e pode ser usado livremente em cursos e estudos relacionados a Android.
 
 ---
+
 ## 📸 Screenshots
 
-### Tela Principal
-<img width="300" alt="Tela Principal do InfoBooks" src="https://raw.githubusercontent.com/alevenancioq7/InfoBooks/master/img/tela1.jpg" />
-
-### Lista de Livros
-<img width="300" alt="Lista de Livros do InfoBooks" src="https://raw.githubusercontent.com/alevenancioq7/InfoBooks/master/img/tela2.jpg" />
+<div align="center">
+  <img width="30%" alt="Tela Principal" src="https://raw.githubusercontent.com/alevenancioq7/InfoBooks/master/img/tela1.jpg" />
+  <img width="30%" alt="Lista de Livros" src="https://raw.githubusercontent.com/alevenancioq7/InfoBooks/master/img/tela2.jpg" />
+  <img width="30%" alt="Lista de Detalhes" src="https://raw.githubusercontent.com/alevenancioq7/InfoBooks/master/img/tela3.jpg" />
+</div>
