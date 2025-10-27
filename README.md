@@ -31,11 +31,9 @@ App Android desenvolvido em Java para busca e visualização de livros utilizand
 
 ## 📸 Screenshots
 
-<div align="center">
-  <img width="32%" alt="Tela Principal" src="https://raw.githubusercontent.com/alevenancioq7/InfoBooks/master/img/tela1.png" />
-  <img width="32%" alt="Lista de Livros" src="https://raw.githubusercontent.com/alevenancioq7/InfoBooks/master/img/tela2.png" />
-  <img width="32%" alt="Lista de Detalhes" src="https://raw.githubusercontent.com/alevenancioq7/InfoBooks/master/img/tela3.png" />
-</div>
+| Tela Principal | Lista de Livros | Lista de Detalhes |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/alevenancioq7/InfoBooks/master/img/tela1.png" width="100%"> | <img src="https://raw.githubusercontent.com/alevenancioq7/InfoBooks/master/img/tela2.png" width="100%"> | <img src="https://raw.githubusercontent.com/alevenancioq7/InfoBooks/master/img/tela3.png" width="100%"> |
 
 ---
 
