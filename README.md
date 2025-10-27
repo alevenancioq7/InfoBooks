@@ -29,12 +29,6 @@ App Android desenvolvido em Java para busca e visualização de livros utilizand
 
 ---
 
-## 📝 Licença
-
-Este projeto foi desenvolvido para fins **didáticos** e pode ser usado livremente em cursos e estudos relacionados a Android.
-
----
-
 ## 📸 Screenshots
 
 <div align="center">
@@ -42,3 +36,11 @@ Este projeto foi desenvolvido para fins **didáticos** e pode ser usado livremen
   <img width="30%" alt="Lista de Livros" src="https://raw.githubusercontent.com/alevenancioq7/InfoBooks/master/img/tela2.jpg" />
   <img width="30%" alt="Lista de Detalhes" src="https://raw.githubusercontent.com/alevenancioq7/InfoBooks/master/img/tela3.jpg" />
 </div>
+
+---
+
+## 📝 Licença
+
+Este projeto foi desenvolvido para fins **didáticos** e pode ser usado livremente em cursos e estudos relacionados a Android.
+
+---
