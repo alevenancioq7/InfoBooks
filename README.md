@@ -6,20 +6,15 @@ App Android desenvolvido em Java para busca e visualização de livros utilizand
 
 ## 🎯 Funcionalidades
 
-🔍 Busca de Livros:
-    - Pesquise livros por título ou autor
+🔍 Busca de Livros: Pesquise livros por título ou autor
+
+📱 Lista Interativa: RecyclerView com imagens das capas
     
-📱 Lista Interativa:
-    - RecyclerView com imagens das capas
+📖 Detalhes Completos: Tela dedicada com informações detalhadas
     
-📖 Detalhes Completos: 
-    - Tela dedicada com informações detalhadas
+💾 Persistência Local: SharedPreferences para salvar histórico
     
-💾 Persistência Local: 
-    - SharedPreferences para salvar histórico
-    
-🌐 Consumo de API: 
-    - Integração com Open Library API
+🌐 Consumo de API: Integração com Open Library API
     
 ---
 
