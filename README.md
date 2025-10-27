@@ -37,10 +37,7 @@ Este projeto foi desenvolvido para fins **didáticos** e pode ser usado livremen
 ## 📸 Screenshots
 
 ### Tela Principal
-<img width="100" height="100" alt="image" src="https://github.com/alevenancioq7/InfoBooks/blob/master/img/tela1.jpg" />
+<img width="300" alt="Tela Principal do InfoBooks" src="https://raw.githubusercontent.com/alevenancioq7/InfoBooks/master/img/tela1.jpg" />
 
 ### Lista de Livros
-![Tela de Detalhes](img/tela2.jpg)
-
-### Tela de Detalhes
-![Lista de Livros](images/tela3.jpg)
+<img width="300" alt="Lista de Livros do InfoBooks" src="https://raw.githubusercontent.com/alevenancioq7/InfoBooks/master/img/tela2.jpg" />
